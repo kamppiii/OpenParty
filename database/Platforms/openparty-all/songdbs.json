@@ -126,72 +126,87 @@
     "MrSaxobeat": {
         "artist": "Alexandra Stan",
         "assets": {
-            "banner_bkgImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_banner_bkg.tga.ckd/9ba82693eb7366e378d1df062a8becf8.ckd",
-            "coach1ImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_Coach_1.tga.ckd/eb475cef7948449caf5ea9c6ee91d925.ckd",
-            "coverImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_Cover_Generic.tga.ckd/ab7f7e66e1b92bd48e7e7ffe28ac1acf.ckd",
-            "cover_1024ImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_Cover_1024.png/43913c5d201d541e94ffb11acbb120fc.png",
-            "cover_smallImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_Cover_Online.tga.ckd/5fc96bbed1b47ed6b2c17e8bd9ebcffb.ckd",
-            "expandBkgImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_Cover_AlbumBkg.tga.ckd/b2ef111708fbd8ee214bdaabc39c1e15.ckd",
-            "expandCoachImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_Cover_AlbumCoach.tga.ckd/194261c469ae69269ebeb844c1ba3d1b.ckd",
-            "phoneCoach1ImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_Coach_1_Phone.png/b3dd6dc10f34dd549a389fcbffbf8d34.png",
-            "phoneCoverImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_Cover_Phone.jpg/69a9255afcf714d3d743aa7306b42097.jpg",
-            "videoPreviewVideoURL": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_VideoPreview.webm/6959d1023ab18f889d46b0ad5c2e613e.webm",
-            "map_bkgImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_map_bkg.tga.ckd/3a9d7953d7c41f82a14344bcc75b8256.ckd"
-        },
-        "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22677,45354,68031,90708,113385,136062,158739,181416,204093,226770,249447,272124,294801,317478,340155,362832,385509,408186,430863,453540,476217,498894,521571,544248,566925,589602,612279,634956,657633,680310,702987,725664,748341,771018,793695,816372,839049,861726,884403,907080,929757,952434,975111,997788,1020465,1043142,1065819,1088496,1111173,1133850,1156527,1179204,1201881,1224558,1247235,1269912,1292589,1315266,1337943,1360620,1383297,1405974,1428651],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":420,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/mrsaxobeat/mrsaxobeat_AudioPreview.ogg\"}",
-        "coachCount": 1,
-        "credits": "Written by Andrei Nemirschi and Marcel Prodan.Published by Ultra Empire Music (BMI) o/b/o SC Mediapro Music Entertainment SRL.Courtesy of Ultra Records, Inc. / MediaPro Music Entertainment, Romania under exclusive license to Ultra Records, Inc. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
-        "difficulty": 1,
-        "doubleScoringType": -1,
-        "jdmAttributes": [
-        ],
-        "lyricsColor": "EC1196FF",
-        "lyricsType": 0,
-        "mainCoach": -1,
-        "mapLength": 199.105,
-        "mapName": "MrSaxobeat",
-        "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"647516\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1489815\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2966564\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5889438\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1134\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
-        "mode": 6,
-        "originalJDVersion": 4,
-        "packages": {
-            "mapContent": "MrSaxobeat_mapContent"
-        },
-        "parentMapName": "MrSaxobeat",
-        "skuIds": [
-        ],
-        "songColors": {
-            "songColor_1A": "F78300FF",
-            "songColor_1B": "83003EFF",
-            "songColor_2A": "FF3CE2FF",
-            "songColor_2B": "260055FF"
-        },
-        "status": 3,
-        "sweatDifficulty": 1,
-        "tags": [
-            "Intense",
-            "Main",
-            "subscribedSong",
-            "EasyPeasy",
-            "Summer",
-            "JustDance4",
-            "Solo",
-            "Easy",
-            "Sweat Low",
-            "Eurodance",
-            "Eastern Europe"
-        ],
-        "title": "Mr. Saxobeat",
-        "urls": {
-            "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_AudioPreview.ogg": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_AudioPreview.ogg/6170562324b9869f77c7145c4333c0fa.ogg",
-            "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_HIGH.vp8.webm/66cbbf2e89a30ee1bad2afaeac90c8e0.webm",
-            "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_HIGH.vp9.webm/8e721415e11e49d0cf2234c6e2ec6c67.webm",
-            "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_LOW.vp8.webm/165afaaa6a0c64a3f20488cecd258845.webm",
-            "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_LOW.vp9.webm/c5d90f1eff4a121b7dce21b708f71d20.webm",
-            "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_MID.vp8.webm/cd4c696540558b4296170be75307c2ca.webm",
-            "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_MID.vp9.webm/650f45fe20f3c6f86fab010435ab7636.webm",
-            "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bec6e75fc710be01a73785a46840221e.webm",
-            "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3281a0cfbb0350e517b126601d9d74d0.webm"
-        },
-        "serverChangelist": 0
+            "nx": {
+                "banner_bkgImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_banner_bkg.tga.ckd/9ba82693eb7366e378d1df062a8becf8.ckd",
+                "coach1ImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_Coach_1.tga.ckd/eb475cef7948449caf5ea9c6ee91d925.ckd",
+                "coverImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_Cover_Generic.tga.ckd/ab7f7e66e1b92bd48e7e7ffe28ac1acf.ckd",
+                "cover_1024ImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_Cover_1024.png/43913c5d201d541e94ffb11acbb120fc.png",
+                "cover_smallImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_Cover_Online.tga.ckd/5fc96bbed1b47ed6b2c17e8bd9ebcffb.ckd",
+                "expandBkgImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_Cover_AlbumBkg.tga.ckd/b2ef111708fbd8ee214bdaabc39c1e15.ckd",
+                "expandCoachImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_Cover_AlbumCoach.tga.ckd/194261c469ae69269ebeb844c1ba3d1b.ckd",
+                "phoneCoach1ImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_Coach_1_Phone.png/b3dd6dc10f34dd549a389fcbffbf8d34.png",
+                "phoneCoverImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_Cover_Phone.jpg/69a9255afcf714d3d743aa7306b42097.jpg",
+                "videoPreviewVideoURL": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_VideoPreview.webm/6959d1023ab18f889d46b0ad5c2e613e.webm",
+                "map_bkgImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_map_bkg.tga.ckd/3a9d7953d7c41f82a14344bcc75b8256.ckd"
+            },
+            "x1": {
+                "banner_bkgImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/x1/MrSaxobeat_banner_bkg.tga.ckd/1cace1ecfd73523e9bdcf337d6c220b0.ckd",
+                "coach1ImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/x1/MrSaxobeat_Coach_1.tga.ckd/d53131ad7736f677d3916720c398fefe.ckd",
+                "coverImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/x1/MrSaxobeat_Cover_Generic.tga.ckd/994b0435583ba7584cc9580584c9f872.ckd",
+                "cover_1024ImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_Cover_1024.png/43913c5d201d541e94ffb11acbb120fc.png",
+                "cover_smallImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/x1/MrSaxobeat_Cover_Online.tga.ckd/3225c49f24035b2b4922fc113ac30ff4.ckd",
+                "expandBkgImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/x1/MrSaxobeat_Cover_AlbumBkg.tga.ckd/4e26472d01f8dbae03f1d4df273a72e8.ckd",
+                "expandCoachImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/x1/MrSaxobeat_Cover_AlbumCoach.tga.ckd/e3fcf4a3223ced6ebe84f93f48015821.ckd",
+                "phoneCoach1ImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_Coach_1_Phone.png/b3dd6dc10f34dd549a389fcbffbf8d34.png",
+                "phoneCoverImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_Cover_Phone.jpg/69a9255afcf714d3d743aa7306b42097.jpg",
+                "videoPreviewVideoURL": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_VideoPreview.webm/6959d1023ab18f889d46b0ad5c2e613e.webm",
+                "map_bkgImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/x1/MrSaxobeat_map_bkg.tga.ckd/2eb6b4e06296f5845323a9f59594ddce.ckd"
+            },
+            "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22677,45354,68031,90708,113385,136062,158739,181416,204093,226770,249447,272124,294801,317478,340155,362832,385509,408186,430863,453540,476217,498894,521571,544248,566925,589602,612279,634956,657633,680310,702987,725664,748341,771018,793695,816372,839049,861726,884403,907080,929757,952434,975111,997788,1020465,1043142,1065819,1088496,1111173,1133850,1156527,1179204,1201881,1224558,1247235,1269912,1292589,1315266,1337943,1360620,1383297,1405974,1428651],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":420,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/mrsaxobeat/mrsaxobeat_AudioPreview.ogg\"}",
+            "coachCount": 1,
+            "credits": "Written by Andrei Nemirschi and Marcel Prodan.Published by Ultra Empire Music (BMI) o/b/o SC Mediapro Music Entertainment SRL.Courtesy of Ultra Records, Inc. / MediaPro Music Entertainment, Romania under exclusive license to Ultra Records, Inc. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+            "difficulty": 1,
+            "doubleScoringType": -1,
+            "jdmAttributes": [
+            ],
+            "lyricsColor": "EC1196FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 199.105,
+            "mapName": "MrSaxobeat",
+            "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"647516\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1489815\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2966564\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5889438\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1134\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+            "mode": 6,
+            "originalJDVersion": 4,
+            "packages": {
+                "mapContent": "MrSaxobeat_mapContent"
+            },
+            "parentMapName": "MrSaxobeat",
+            "skuIds": [
+            ],
+            "songColors": {
+                "songColor_1A": "F78300FF",
+                "songColor_1B": "83003EFF",
+                "songColor_2A": "FF3CE2FF",
+                "songColor_2B": "260055FF"
+            },
+            "status": 3,
+            "sweatDifficulty": 1,
+            "tags": [
+                "Intense",
+                "Main",
+                "subscribedSong",
+                "EasyPeasy",
+                "Summer",
+                "JustDance4",
+                "Solo",
+                "Easy",
+                "Sweat Low",
+                "Eurodance",
+                "Eastern Europe"
+            ],
+            "title": "Mr. Saxobeat",
+            "urls": {
+                "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_AudioPreview.ogg": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_AudioPreview.ogg/6170562324b9869f77c7145c4333c0fa.ogg",
+                "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_HIGH.vp8.webm/66cbbf2e89a30ee1bad2afaeac90c8e0.webm",
+                "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_HIGH.vp9.webm/8e721415e11e49d0cf2234c6e2ec6c67.webm",
+                "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_LOW.vp8.webm/165afaaa6a0c64a3f20488cecd258845.webm",
+                "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_LOW.vp9.webm/c5d90f1eff4a121b7dce21b708f71d20.webm",
+                "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_MID.vp8.webm/cd4c696540558b4296170be75307c2ca.webm",
+                "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_MID.vp9.webm/650f45fe20f3c6f86fab010435ab7636.webm",
+                "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bec6e75fc710be01a73785a46840221e.webm",
+                "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3281a0cfbb0350e517b126601d9d74d0.webm"
+            },
+            "serverChangelist": 0
+        }
     }
 }
