@@ -151,6 +151,8 @@
                 "phoneCoverImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_Cover_Phone.jpg/69a9255afcf714d3d743aa7306b42097.jpg",
                 "videoPreviewVideoURL": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_VideoPreview.webm/6959d1023ab18f889d46b0ad5c2e613e.webm",
                 "map_bkgImageUrl": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/x1/MrSaxobeat_map_bkg.tga.ckd/2eb6b4e06296f5845323a9f59594ddce.ckd"
+            },
+            "common": {
             }
         },
         "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22677,45354,68031,90708,113385,136062,158739,181416,204093,226770,249447,272124,294801,317478,340155,362832,385509,408186,430863,453540,476217,498894,521571,544248,566925,589602,612279,634956,657633,680310,702987,725664,748341,771018,793695,816372,839049,861726,884403,907080,929757,952434,975111,997788,1020465,1043142,1065819,1088496,1111173,1133850,1156527,1179204,1201881,1224558,1247235,1269912,1292589,1315266,1337943,1360620,1383297,1405974,1428651],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":420,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/mrsaxobeat/mrsaxobeat_AudioPreview.ogg\"}",
