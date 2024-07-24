@@ -4,5 +4,11 @@
     "storageType": 0,
     "url": "https://jd-s3.bc5f39.workers.dev/public/map/Despacito/pc/Despacito_MAIN_SCENE_PC.zip/394a6d87d767aea40764d7f51ab1c127.zip",
     "version": 6
+  },
+  "AintNoOtherMan_mapContent": {
+    "md5": "6a4c5108cec56bf37cf5233e8b04a5f7",
+    "storageType": 0,
+    "url": "https://jd-s3.cdn.ubi.com/public/map/AintNoOtherMan/pc/AintNoOtherMan_MAIN_SCENE_PC.zip/6a4c5108cec56bf37cf5233e8b04a5f7.zip",
+    "version": 6
   }
 }
