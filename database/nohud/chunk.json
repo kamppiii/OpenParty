@@ -7,10 +7,10 @@
     "jmcs://jd-contents/Despacito/Despacito.ogg": "https://mirror.bc5f39.workers.dev/https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/Despacito.ogg"
   },
   "MrSaxobeat": {
-    "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_ULTRA.webm": "https://cdn.glitch.me/9681a377-f8f6-4470-ad9d-72c7ef7c566f/MrSaxobeat_ULTRA.webm?v=1721833441474",
-    "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MID.webm": "https://cdn.glitch.me/9681a377-f8f6-4470-ad9d-72c7ef7c566f/MrSaxobeat_MID.webm?v=1721833595925",
-    "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_LOW.webm": "https://cdn.glitch.global/9681a377-f8f6-4470-ad9d-72c7ef7c566f/MrSaxobeat_LOW.webm?v=1721840589195",
-    "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_HIGH.webm": "https://cdn.glitch.me/9681a377-f8f6-4470-ad9d-72c7ef7c566f/MrSaxobeat_HIGH.webm?v=1721833527500",
-    "jmcs://jd-contents/MrSaxobeat/MrSaxobeat.ogg": "https://cdn.glitch.global/9681a377-f8f6-4470-ad9d-72c7ef7c566f/MrSaxobeat.ogg?v=1721840578167"
+    "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_ULTRA.webm": "https://cdn.glitch.me/9681a377-f8f6-4470-ad9d-72c7ef7c566f/MrSaxobeat_ULTRA.webm",
+    "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MID.webm": "https://cdn.glitch.me/9681a377-f8f6-4470-ad9d-72c7ef7c566f/MrSaxobeat_MID.webm",
+    "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_LOW.webm": "https://cdn.glitch.global/9681a377-f8f6-4470-ad9d-72c7ef7c566f/MrSaxobeat_LOW.webm",
+    "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_HIGH.webm": "https://cdn.glitch.me/9681a377-f8f6-4470-ad9d-72c7ef7c566f/MrSaxobeat_HIGH.webm",
+    "jmcs://jd-contents/MrSaxobeat/MrSaxobeat.ogg": "https://cdn.glitch.global/9681a377-f8f6-4470-ad9d-72c7ef7c566f/MrSaxobeat.ogg"
   }
 }
