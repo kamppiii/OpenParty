@@ -4,5 +4,11 @@
     "storageType": 0,
     "url": "https://jd-s3.bc5f39.workers.dev/public/map/Despacito/nx/Despacito_MAIN_SCENE_NX.zip/938871f3641338323294848eb01e889d.zip",
     "version": 8
+  },
+  "MrSaxobeat_mapContent": {
+    "md5": "110c8df1e48fa87834bf5d49fc59b821",
+    "storageType": 0,
+    "url": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/nx/MrSaxobeat_MAIN_SCENE_NX.zip/110c8df1e48fa87834bf5d49fc59b821.zip",
+    "version": 7
   }
 }
