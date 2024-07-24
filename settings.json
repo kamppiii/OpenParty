@@ -9,7 +9,7 @@
         "isPublic": true,
         "enableSSL": true,
         "domain": "openparty.onrender.com",
-        "modName": "Just Dance Unlimited Mod",
+        "modName": "Just Dance server",
         "serverstatus": {
             "isMaintenance": false,
             "channel": "prod"
