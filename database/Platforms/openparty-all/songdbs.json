@@ -196,7 +196,7 @@
             "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_MID.vp9.webm/650f45fe20f3c6f86fab010435ab7636.webm",
             "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bec6e75fc710be01a73785a46840221e.webm",
             "jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.cdn.ubi.com/public/map/MrSaxobeat/MrSaxobeat_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3281a0cfbb0350e517b126601d9d74d0.webm"
-        }
+    },
     "serverChangelist": 0
   }
 }
